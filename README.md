@@ -11,8 +11,8 @@ Install maven and set the classpath and verify maven installation with mvn --ver
 Now,After unzipping go to the root of the folder and open command prompt.
 Now, enter either mvn install or mvn test to run the test class of the Puzzle.
 While the program is running, we can see that logs will be shown in the command shell and all the test results will be visible over there.
-The build will fail because test cases will fail due to difference in the Rest API documentation and REST APIs response .
-I have created one End to end test scenario where I tried to cover scenarios as much as possible including dynamically generating userid and pushing it to next api calls ,but there are areas to improve like we can tweak the design pattern a little bit and we containerize it.
+The build will fail because few test cases will fail due to differences between the Rest API documentation and REST APIs response .
+I have created one End to end test scenario where I tried to cover scenarios as much as possible including dynamically generating userid and pushing it to next api calls ,but there are areas to improve like we can tweak the design pattern a little bit and containerize it etc.
 
 Project Structure ::
 
