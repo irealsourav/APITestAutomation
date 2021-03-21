@@ -18,6 +18,7 @@ Project Structure ::
 I have created pom.xml for dependency management.
 Rest-Assured  for rest api calls, Cucumber and TestNg for clarity in the test case function names and easy reporting respectively.
 I have added model class for request and response and also verified he schema of the request and response by using POJOs.
+I have created feature file for test related data and Config.properties file configuration related data.
 There is one TestRunner class from where the execution is starting.
 
 Test running flow ::
